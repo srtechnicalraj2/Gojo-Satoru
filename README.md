@@ -75,7 +75,7 @@ global.APIKeys = {
 }
   
 global.owner = ["923090456850"]
-global.ownername = ["👑 Shabbir rajpoot King 👑"]
+global.ownername = ["Shabbir rajpoot King"]
 ```
 </details>
 
@@ -119,7 +119,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ----
 
-<!-- Contact Owner -->
+<!-- Contact Owner -->https://wa.me/923090456850
 <b><details><summary>Contact</summary></b>
 
 ## ```Connect With Me```https://wa.me/923090456850
